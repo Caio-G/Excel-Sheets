@@ -1,2 +1,2 @@
 # Excel/Sheets
- Excel/Sheets porjects
+ Excel/Sheets projects
